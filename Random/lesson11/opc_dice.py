@@ -1,3 +1,7 @@
+"""
+game: dice
+source: http://hplgit.github.io/primer.html/doc/pub/random/._random-readable004.html#sec:random:twodicesumguess
+"""
 import random
 import sys
 
