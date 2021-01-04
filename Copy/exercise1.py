@@ -11,7 +11,7 @@ print("")
 ml = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
 ml3 = copy(ml)
 ml3[1] = [0]
-ml3[0][0]=0
+ml3[0][0] = 0
 print(ml)
 print(ml3)
 print("")
@@ -19,7 +19,6 @@ print("")
 ml = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
 ml3 = deepcopy(ml)
 ml3[1] = [0]
-ml3[0][0]=0
+ml3[0][0] = 0
 print(ml)
 print(ml3)
-
